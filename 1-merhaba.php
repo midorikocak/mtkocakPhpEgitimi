@@ -1,4 +1,4 @@
-&lt;?php
+<?php
 
 // PHP Derleyicisine Programın başladığını bildirir.
 // Değişik türleri de vardır. 
@@ -26,4 +26,4 @@ echo $degisken; // echo komutu değişkenin program tarafından ekrana yansıtı
 // Eğer karakterler bozuk görünüyorsa, browserin encoding ayarı UTF8'e çevirilecek
 // Bunu daha sonra html kodlarıyla ayarlayacağız.
 
-?&gt;
+?>
