@@ -1,17 +1,11 @@
-<?php
+&lt;?php
 
 // PHP Derleyicisine Programın başladığını bildirir.
 // Değişik türleri de vardır. 
 
 /**  
-*
-*               Mtkocak PHP Eğitimi
-*           Bilişim ve İletişim Çalışanları
-*                   Dayanışma Ağı
-*           
-*       Makine Mühendisleri Odası Beyoğlu Şubesi
-*                   15.06.2012
-*   
+*                    Merakli Bilişimci
+*                   meraklibilisimci.com
 **/
 
 //Örnek 1 - Merhaba Dünya
@@ -32,4 +26,4 @@ echo $degisken; // echo komutu değişkenin program tarafından ekrana yansıtı
 // Eğer karakterler bozuk görünüyorsa, browserin encoding ayarı UTF8'e çevirilecek
 // Bunu daha sonra html kodlarıyla ayarlayacağız.
 
-?>
+?&gt;
