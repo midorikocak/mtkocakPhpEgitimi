@@ -1,13 +1,7 @@
 <?php
 /**  
-*
-*               Mtkocak PHP Eğitimi
-*           Bilişim ve İletişim Çalışanları
-*                   Dayanışma Ağı
-*           
-*       Makine Mühendisleri Odası Beyoğlu Şubesi
-*                   15.06.2012
-*   
+*                    Merakli Bilişimci
+*                   meraklibilisimci.com
 **/
 // Bu örnekte koşula bağlı çalışan ifadeleri ve dizileri anlayacağız.
 // Dizi bir çok değişkeni bir arada tutan veri tipidir. Çekmeceye benzetebiliriz.
@@ -23,7 +17,7 @@ if($ogrenciSayisi <= 10)
     // İkinci değer sayacın ulaşacağı değeri
     // Üçüncü değer ise sayacın kaçar kaçar artacağını söyler. Eğer tek tek artırmak istersek $i++ da yazabilirdik.
     // Benzer işlermi yapan while ve do while döngüleri de vardır.
-    for($i=0;$i<=$ogrenciSayisi;$i = $i+2)
+    for($i=0;$i<$ogrenciSayisi;$i = $i+1)
     {
         echo $ogrenciler[$i]."<br/>";
     }
