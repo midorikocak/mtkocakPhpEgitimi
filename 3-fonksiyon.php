@@ -1,13 +1,7 @@
 <?php
 /**  
-*
-*               Mtkocak PHP Eğitimi
-*           Bilişim ve İletişim Çalışanları
-*                   Dayanışma Ağı
-*           
-*       Makine Mühendisleri Odası Beyoğlu Şubesi
-*                   15.06.2012
-*   
+*                    Merakli Bilişimci
+*                   meraklibilisimci.com
 **/
 
 // Bu örnekte Fonksiyonları anlayacağız.
