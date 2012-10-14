@@ -24,7 +24,7 @@ if($ogrenciSayisi <= 10)
 }
 else 
 {
-    echo "Ogrencilerin sayisi 10'dan küçüktür.";
+    echo "Ogrencilerin sayisi 10'dan büyüktür.";
 }
 
 ?>
