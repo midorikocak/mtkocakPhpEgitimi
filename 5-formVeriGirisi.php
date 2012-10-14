@@ -1,21 +1,15 @@
 <?php
 /**  
-*
-*               Mtkocak PHP Eğitimi
-*           Bilişim ve İletişim Çalışanları
-*                   Dayanışma Ağı
-*           
-*       Makine Mühendisleri Odası Beyoğlu Şubesi
-*                   15.06.2012
-*   
+*                    Merakli Bilişimci
+*                   meraklibilisimci.com
 **/
 
 ?>
 <!-- Html'de Tarayıcının okumasını istemediğimiz bölümleri bu şekilde belirtiyoruz. Yorum yapısına benzer -->
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Mtkocak PHP Eğitimi</title>
+    <title>İnternet Programlamaya Giriş</title>
     <!-- Karakter kodlaması burada yapılır. En güvenilir çözüm UTF-8 kullanmaktır. Çünkü evrensel kodlamayı araçlar. Çince sayfayı da, Türkçe sayfayı'da çözer.' -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <!-- Html'de Meta tagları kullanımı çok önemlidir. Arama motorları önce meta taglarını kontrol ederler. En iyi ve tek SEO yöntemi meta taglarinin olması ve kod ağacının hatasız olmasıdır. W3C Checker ile kod kontrol edilebilir. -->
